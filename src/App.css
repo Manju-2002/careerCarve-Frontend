@@ -22,10 +22,16 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  padding: 20px;
 }
 
 .App-link {
   color: #61dafb;
+  text-decoration: none;
+}
+
+.App-link:hover {
+  text-decoration: underline;
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +41,23 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/* Additional Styles */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.header {
+  background-color: #f8f9fa;
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.footer {
+  background-color: #f8f9fa;
+  padding: 10px 0;
+  border-top: 1px solid #ddd;
 }
