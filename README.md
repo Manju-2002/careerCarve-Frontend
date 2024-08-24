@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Tools and Technologies
+
+This project uses the following tools and technologies:
+
+- **React.js**: A JavaScript library for building user interfaces.
+- **Node.js**: A JavaScript runtime for building server-side applications.
+- **Express.js**: A web application framework for Node.js.
+- **Axios**: A promise-based HTTP client for making requests to the backend.
+- **MySQL**: A relational database management system for storing data.
+- **GitHub**: A platform for version control and collaboration.
+- **Postman**: A tool for testing API endpoints.
+- **Docker** (if used): A platform for containerizing applications.
+- **Jest**: A testing framework for JavaScript.
